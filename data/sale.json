@@ -1,0 +1,37 @@
+[
+    {
+        "product_id": 1,
+        "quantity_sold": 4,
+        "total_price": 3999.96
+    },
+    {
+        "product_id": 1,
+        "quantity_sold": 5,
+        "total_price": 4999.95
+    },
+    {
+        "product_id": 1,
+        "quantity_sold": 4,
+        "total_price": 3999.96
+    },
+    {
+        "product_id": 1,
+        "quantity_sold": 1,
+        "total_price": 999.99
+    },
+    {
+        "product_id": 1,
+        "quantity_sold": 1,
+        "total_price": 999.99
+    },
+    {
+        "product_id": 5,
+        "quantity_sold": 1,
+        "total_price": 249.99
+    },
+    {
+        "product_id": 1,
+        "quantity_sold": 1,
+        "total_price": 999.99
+    }
+]
