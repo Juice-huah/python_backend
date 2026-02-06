@@ -1,0 +1,11 @@
+[
+    {
+        "Status": "Successful",
+        "Error": {
+            "Code": "",
+            "Description": ""
+        },
+        "CodeImgUrl": "https://example.com/qrcode/20240625001.png",
+        "CodeUrl": "https://example.com/qr/20240625001"
+    }
+]

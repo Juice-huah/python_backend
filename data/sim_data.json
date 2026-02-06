@@ -1,0 +1,47 @@
+[
+    {
+        "MerchantID": "123456789",
+        "BillNumber": "20240625001",
+        "TerminalID": "987654321",
+        "ReferenceNumber": "REF20240625001",
+        "CreditMID": "CREDIT123456",
+        "Amount": "150.00",
+        "Status": "Successful",
+        "Error": {
+            "Code": "",
+            "Description": ""
+        },
+        "CodeImgUrl": "https://example.com/qrcode/20240625001.png",
+        "CodeUrl": "https://example.com/qr/20240625001"
+    },
+    {
+        "MerchantID": 124075108,
+        "BillNumber": 21835198174,
+        "TerminalID": 2139879189,
+        "ReferenceNumber": 12485397,
+        "CreditMID": 2137658713,
+        "Amount": 100,
+        "Status": "Successful",
+        "Error": {
+            "Code": "",
+            "Description": ""
+        },
+        "CodeImgUrl": "https://example.com/qrcode/20240625001.png",
+        "CodeUrl": "https://example.com/qr/20240625001"
+    },
+    {
+        "MerchantID": 312415,
+        "BillNumber": 21412,
+        "TerminalID": 1666616,
+        "ReferenceNumber": 213156,
+        "CreditMID": 22131235,
+        "Amount": 50000.0,
+        "Status": "Successful",
+        "Error": {
+            "Code": "",
+            "Description": ""
+        },
+        "CodeImgUrl": "https://example.com/qrcode/20240625001.png",
+        "CodeUrl": "https://example.com/qr/20240625001"
+    }
+]
