@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "123456",
+    "ReferenceNumber": "654321",
+    "Amount": "",
+    "Date": "",
+    "Time": "",
+    "CardNumber": "0000000000000000", 
+    "Tracenumber": "123456",
+    "ApprovalCode": "abc123",
+    "Status": "Approved",
+    "Reason": "Approved"
+
+}

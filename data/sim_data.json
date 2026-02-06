@@ -1,11 +1,11 @@
 [
     {
-        "MerchantID": "123456789",
-        "BillNumber": "20240625001",
-        "TerminalID": "987654321",
-        "ReferenceNumber": "REF20240625001",
-        "CreditMID": "CREDIT123456",
-        "Amount": "150.00",
+        "MerchantID": "string",
+        "BillNumber": "string",
+        "TerminalID": "string",
+        "ReferenceNumber": "string",
+        "CreditMID": "string",
+        "Amount": "string",
         "Status": "Successful",
         "Error": {
             "Code": "",
@@ -15,12 +15,12 @@
         "CodeUrl": "https://example.com/qr/20240625001"
     },
     {
-        "MerchantID": 124075108,
-        "BillNumber": 21835198174,
-        "TerminalID": 2139879189,
-        "ReferenceNumber": 12485397,
-        "CreditMID": 2137658713,
-        "Amount": 100,
+        "MerchantID": "string",
+        "BillNumber": "string",
+        "TerminalID": "string",
+        "ReferenceNumber": "string",
+        "CreditMID": "string",
+        "Amount": "string",
         "Status": "Successful",
         "Error": {
             "Code": "",
@@ -30,12 +30,234 @@
         "CodeUrl": "https://example.com/qr/20240625001"
     },
     {
-        "MerchantID": 312415,
-        "BillNumber": 21412,
-        "TerminalID": 1666616,
-        "ReferenceNumber": 213156,
-        "CreditMID": 22131235,
-        "Amount": 50000.0,
+        "MerchantID": "string",
+        "BillNumber": "string",
+        "TerminalID": "string",
+        "ReferenceNumber": "string",
+        "CreditMID": "string",
+        "Amount": "string",
+        "Status": "Successful",
+        "Error": {
+            "Code": "",
+            "Description": ""
+        },
+        "CodeImgUrl": "https://example.com/qrcode/20240625001.png",
+        "CodeUrl": "https://example.com/qr/20240625001"
+    },
+    {
+        "MerchantID": "string",
+        "BillNumber": "string",
+        "TerminalID": "string",
+        "ReferenceNumber": "string",
+        "CreditMID": "string",
+        "Amount": "string",
+        "Status": "Successful",
+        "Error": {
+            "Code": "",
+            "Description": ""
+        },
+        "CodeImgUrl": "https://example.com/qrcode/20240625001.png",
+        "CodeUrl": "https://example.com/qr/20240625001"
+    },
+    {
+        "MerchantID": "116580001612",
+        "BillNumber": "002006",
+        "TerminalID": "XXXXXXXX",
+        "ReferenceNumber": "002005",
+        "CreditMID": "XXXXXXXXXXXXXXX",
+        "Amount": "001",
+        "Status": "Successful",
+        "Error": {
+            "Code": "",
+            "Description": ""
+        },
+        "CodeImgUrl": "https://example.com/qrcode/20240625001.png",
+        "CodeUrl": "https://example.com/qr/20240625001"
+    },
+    {
+        "MerchantID": "116580001612",
+        "BillNumber": "002007",
+        "TerminalID": "XXXXXXXX",
+        "ReferenceNumber": "002006",
+        "CreditMID": "XXXXXXXXXXXXXXX",
+        "Amount": "001",
+        "Status": "Successful",
+        "Error": {
+            "Code": "",
+            "Description": ""
+        },
+        "CodeImgUrl": "https://example.com/qrcode/20240625001.png",
+        "CodeUrl": "https://example.com/qr/20240625001"
+    },
+    {
+        "MerchantID": "116580001612",
+        "BillNumber": "002008",
+        "TerminalID": "XXXXXXXX",
+        "ReferenceNumber": "002007",
+        "CreditMID": "XXXXXXXXXXXXXXX",
+        "Amount": "001",
+        "Status": "Successful",
+        "Error": {
+            "Code": "",
+            "Description": ""
+        },
+        "CodeImgUrl": "https://example.com/qrcode/20240625001.png",
+        "CodeUrl": "https://example.com/qr/20240625001"
+    },
+    {
+        "MerchantID": "string",
+        "BillNumber": "string",
+        "TerminalID": "string",
+        "ReferenceNumber": "string",
+        "CreditMID": "string",
+        "Amount": "hello",
+        "Status": "Successful",
+        "Error": {
+            "Code": "",
+            "Description": ""
+        },
+        "CodeImgUrl": "https://example.com/qrcode/20240625001.png",
+        "CodeUrl": "https://example.com/qr/20240625001"
+    },
+    {
+        "MerchantID": "string",
+        "BillNumber": "string",
+        "TerminalID": "string",
+        "ReferenceNumber": "string",
+        "CreditMID": "string",
+        "Amount": "hello",
+        "Status": "Successful",
+        "Error": {
+            "Code": "",
+            "Description": ""
+        },
+        "CodeImgUrl": "https://example.com/qrcode/20240625001.png",
+        "CodeUrl": "https://example.com/qr/20240625001"
+    },
+    {
+        "MerchantID": "string",
+        "BillNumber": "string",
+        "TerminalID": "string",
+        "ReferenceNumber": "string",
+        "CreditMID": "string",
+        "Amount": "string",
+        "Status": "Successful",
+        "Error": {
+            "Code": "",
+            "Description": ""
+        },
+        "CodeImgUrl": "https://example.com/qrcode/20240625001.png",
+        "CodeUrl": "https://example.com/qr/20240625001"
+    },
+    {
+        "MerchantID": "string",
+        "BillNumber": "string",
+        "TerminalID": "string",
+        "ReferenceNumber": "string",
+        "CreditMID": "string",
+        "Amount": "string",
+        "Status": "Successful",
+        "Error": {
+            "Code": "",
+            "Description": ""
+        },
+        "CodeImgUrl": "https://example.com/qrcode/20240625001.png",
+        "CodeUrl": "https://example.com/qr/20240625001"
+    },
+    {
+        "MerchantID": "116580001612",
+        "BillNumber": "002019",
+        "TerminalID": "70021412",
+        "ReferenceNumber": "002015",
+        "CreditMID": "9183507987",
+        "Amount": "001",
+        "Status": "Successful",
+        "Error": {
+            "Code": "",
+            "Description": ""
+        },
+        "CodeImgUrl": "https://example.com/qrcode/20240625001.png",
+        "CodeUrl": "https://example.com/qr/20240625001"
+    },
+    {
+        "MerchantID": "116580001612",
+        "BillNumber": "002020",
+        "TerminalID": "70021412",
+        "ReferenceNumber": "002016",
+        "CreditMID": "9183507987",
+        "Amount": "001",
+        "Status": "Successful",
+        "Error": {
+            "Code": "",
+            "Description": ""
+        },
+        "CodeImgUrl": "https://example.com/qrcode/20240625001.png",
+        "CodeUrl": "https://example.com/qr/20240625001"
+    },
+    {
+        "MerchantID": "116580001612",
+        "BillNumber": "002021",
+        "TerminalID": "70021412",
+        "ReferenceNumber": "002017",
+        "CreditMID": "9183507987",
+        "Amount": "001",
+        "Status": "Successful",
+        "Error": {
+            "Code": "",
+            "Description": ""
+        },
+        "CodeImgUrl": "https://example.com/qrcode/20240625001.png",
+        "CodeUrl": "https://example.com/qr/20240625001"
+    },
+    {
+        "MerchantID": "116580001612",
+        "BillNumber": "002022",
+        "TerminalID": "70021412",
+        "ReferenceNumber": "002018",
+        "CreditMID": "9183507987",
+        "Amount": "001",
+        "Status": "Successful",
+        "Error": {
+            "Code": "",
+            "Description": ""
+        },
+        "CodeImgUrl": "https://example.com/qrcode/20240625001.png",
+        "CodeUrl": "https://example.com/qr/20240625001"
+    },
+    {
+        "InvoiceNumber": "trace123",
+        "ReferenceNumber": "654321",
+        "Amount": "500",
+        "Date": "2026-2-6",
+        "Time": "11:51:54",
+        "MerchantID": "Merchant123",
+        "TerminalID": "Terminal123",
+        "TraceNumber": "trace123",
+        "Status": "Approved",
+        "Reason": "Approved"
+    },
+    {
+        "MerchantID": "116580001612",
+        "BillNumber": "002023",
+        "TerminalID": "70021412",
+        "ReferenceNumber": "002019",
+        "CreditMID": "9183507987",
+        "Amount": "001",
+        "Status": "Successful",
+        "Error": {
+            "Code": "",
+            "Description": ""
+        },
+        "CodeImgUrl": "https://example.com/qrcode/20240625001.png",
+        "CodeUrl": "https://example.com/qr/20240625001"
+    },
+    {
+        "MerchantID": "116580001612",
+        "BillNumber": "002024",
+        "TerminalID": "70021412",
+        "ReferenceNumber": "002020",
+        "CreditMID": "9183507987",
+        "Amount": "001",
         "Status": "Successful",
         "Error": {
             "Code": "",
