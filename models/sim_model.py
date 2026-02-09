@@ -1,4 +1,4 @@
-from pydantic import BaseModel, Field
+from pydantic import BaseModel
 from typing import Optional
 
 class ErrorDetails(BaseModel):
@@ -45,10 +45,3 @@ class AcceptPayment(BaseModel):
     Status: str
     Reason: str
 
-class TerminalApproval(BaseModel):
-    amount: str
-    transaction_date: str = Field(alias="transaction-date")
-    merchant_id: str = Field(alias="merchant-id")
-    terminal_id: str = Field(alias="terminal-id")
-    trace_number: str = Field(alias="trace-number")
-    

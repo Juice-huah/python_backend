@@ -41,21 +41,20 @@ def save_data_received(data):
         json.dump(all_records, file, indent=4)
     return new_entry
 
-def approve_payment_dynamic(data):
-    # Access the data using dot notation (e.g., data.amount)
+def approve_payment_dynamic(amount, date, merchant, terminal, trace):
     response = {
-        "InvoiceNumber": data.trace_number,
-        "ReferenceNumber": "1234567890",
-        "Amount": data.amount,
-        "Date": data.transaction_date,
+        "InvoiceNumber": trace, 
+        "ReferenceNumber": "654321",
+        "Amount": amount,           
+        "Date": date,               
         "Time": datetime.now().strftime("%H:%M:%S"),
-        "MerchantID": data.merchant_id,
-        "TerminalID": data.terminal_id,
-        "TraceNumber": data.trace_number,
-        "Status": "Approved"
+        "MerchantID": merchant,
+        "TerminalID": terminal,
+        "TraceNumber": trace,
+        "Status": "Approved",
+        "Reason": "Approved"
     }
-    
-    # ... your existing save/log logic ...
+        
     return response
     
 def decline_payment():
