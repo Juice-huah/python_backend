@@ -1,303 +1,123 @@
 [
     {
-        "MerchantID": "116580001612",
-        "BillNumber": "002020",
-        "TerminalID": "70021412",
-        "ReferenceNumber": "002018",
-        "CreditMID": "9183507987",
-        "Amount": "001",
+        "MerchantID": "",
+        "BillNumber": "",
+        "TerminalID": "",
+        "ReferenceNumber": "",
+        "CreditMID": "",
+        "Amount": "",
         "Status": "",
         "Error": {
             "Code": "",
             "Description": ""
         },
-        "CodeImgUrl": "https://example.com/qrcode/20240625001.png",
-        "CodeUrl": "https://example.com/qr/20240625001"
+        "CodeImgUrl": "https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https://192.168.1.64:8000/sim/QRPH-Response001",
+        "CodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https://192.168.1.64:8000/sim/QRPH-Response001"
     },
     {
-        "MerchantID": "116580001612",
-        "BillNumber": "002021",
-        "TerminalID": "70021412",
-        "ReferenceNumber": "002019",
-        "CreditMID": "9183507987",
-        "Amount": "001",
+        "MerchantID": "213987",
+        "BillNumber": "129847",
+        "TerminalID": "192848",
+        "ReferenceNumber": "12984",
+        "CreditMID": "12894",
+        "Amount": "129847",
         "Status": "",
         "Error": {
             "Code": "",
             "Description": ""
         },
-        "CodeImgUrl": "https://example.com/qrcode/20240625001.png",
-        "CodeUrl": "https://example.com/qr/20240625001"
+        "CodeImgUrl": "https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://192.168.1.64:8000/sim/QRPH-Response001",
+        "CodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://192.168.1.64:8000/sim/QRPH-Response001"
     },
     {
-        "MerchantID": "116580001612",
-        "BillNumber": "002022",
-        "TerminalID": "70021412",
-        "ReferenceNumber": "002020",
-        "CreditMID": "9183507987",
-        "Amount": "001",
+        "MerchantID": "",
+        "BillNumber": "",
+        "TerminalID": "",
+        "ReferenceNumber": "",
+        "CreditMID": "",
+        "Amount": "",
         "Status": "",
         "Error": {
             "Code": "",
             "Description": ""
         },
-        "CodeImgUrl": "https://example.com/qrcode/20240625001.png",
-        "CodeUrl": "https://example.com/qr/20240625001"
+        "CodeImgUrl": "https://api.qrserver.com/v1/create-qr-code/?size=225x225&data=https://192.168.1.64:8000/sim/QRPH-Response001",
+        "CodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=225x225&data=https://192.168.1.64:8000/sim/QRPH-Response001"
     },
     {
-        "MerchantID": "116580001612",
-        "BillNumber": "002023",
-        "TerminalID": "70021412",
-        "ReferenceNumber": "002021",
-        "CreditMID": "9183507987",
-        "Amount": "001",
+        "MerchantID": "123",
+        "BillNumber": "2312",
+        "TerminalID": "123",
+        "ReferenceNumber": "123",
+        "CreditMID": "123",
+        "Amount": "23",
         "Status": "",
         "Error": {
             "Code": "",
             "Description": ""
         },
-        "CodeImgUrl": "https://example.com/qrcode/20240625001.png",
-        "CodeUrl": "https://example.com/qr/20240625001"
+        "CodeImgUrl": "https://api.qrserver.com/v1/create-qr-code/?size=225x225&data=https://192.168.1.64:8000/sim/QRPH-Response001",
+        "CodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=225x225&data=https://192.168.1.64:8000/sim/QRPH-Response001"
     },
     {
-        "MerchantID": "116580001612",
-        "BillNumber": "002024",
-        "TerminalID": "70021412",
-        "ReferenceNumber": "002022",
-        "CreditMID": "9183507987",
-        "Amount": "001",
+        "MerchantID": "123",
+        "BillNumber": "123",
+        "TerminalID": "23",
+        "ReferenceNumber": "123",
+        "CreditMID": "123",
+        "Amount": "23",
         "Status": "",
         "Error": {
             "Code": "",
             "Description": ""
         },
-        "CodeImgUrl": "https://example.com/qrcode/20240625001.png",
-        "CodeUrl": "https://example.com/qr/20240625001"
+        "CodeImgUrl": "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://192.168.1.64:8000/sim/QRPH-Response001",
+        "CodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://192.168.1.64:8000/sim/QRPH-Response001"
     },
     {
-        "MerchantID": "116580001612",
-        "BillNumber": "002025",
-        "TerminalID": "70021412",
-        "ReferenceNumber": "002023",
-        "CreditMID": "9183507987",
-        "Amount": "001",
+        "MerchantID": "123123",
+        "BillNumber": "123123",
+        "TerminalID": "123123",
+        "ReferenceNumber": "123123",
+        "CreditMID": "123123",
+        "Amount": "123123",
         "Status": "",
         "Error": {
             "Code": "",
             "Description": ""
         },
-        "CodeImgUrl": "https://example.com/qrcode/20240625001.png",
-        "CodeUrl": "https://example.com/qr/20240625001"
+        "CodeImgUrl": "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://192.168.1.64:8000/sim/QRPH-Response001",
+        "CodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://192.168.1.64:8000/sim/QRPH-Response001"
     },
     {
-        "MerchantID": "116580001612",
-        "BillNumber": "002026",
-        "TerminalID": "70021412",
-        "ReferenceNumber": "002024",
-        "CreditMID": "9183507987",
-        "Amount": "001",
+        "MerchantID": "",
+        "BillNumber": "",
+        "TerminalID": "",
+        "ReferenceNumber": "",
+        "CreditMID": "",
+        "Amount": "",
         "Status": "",
         "Error": {
             "Code": "",
             "Description": ""
         },
-        "CodeImgUrl": "https://example.com/qrcode/20240625001.png",
-        "CodeUrl": "https://example.com/qr/20240625001"
+        "CodeImgUrl": "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://192.168.1.64:8000/sim/QRPH-Response001",
+        "CodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://192.168.1.64:8000/sim/QRPH-Response001"
     },
     {
-        "MerchantID": "116580001612",
-        "BillNumber": "002027",
-        "TerminalID": "70021412",
-        "ReferenceNumber": "002025",
-        "CreditMID": "9183507987",
-        "Amount": "001",
+        "MerchantID": "123",
+        "BillNumber": "123",
+        "TerminalID": "23",
+        "ReferenceNumber": "23",
+        "CreditMID": "23123123",
+        "Amount": "132",
         "Status": "",
         "Error": {
             "Code": "",
             "Description": ""
         },
-        "CodeImgUrl": "https://example.com/qrcode/20240625001.png",
-        "CodeUrl": "https://example.com/qr/20240625001"
-    },
-    {
-        "MerchantID": "116580001612",
-        "BillNumber": "002028",
-        "TerminalID": "70021412",
-        "ReferenceNumber": "002026",
-        "CreditMID": "9183507987",
-        "Amount": "001",
-        "Status": "",
-        "Error": {
-            "Code": "",
-            "Description": ""
-        },
-        "CodeImgUrl": "https://example.com/qrcode/20240625001.png",
-        "CodeUrl": "https://example.com/qr/20240625001"
-    },
-    {
-        "MerchantID": "116580001612",
-        "BillNumber": "002029",
-        "TerminalID": "70021412",
-        "ReferenceNumber": "002027",
-        "CreditMID": "9183507987",
-        "Amount": "001",
-        "Status": "",
-        "Error": {
-            "Code": "",
-            "Description": ""
-        },
-        "CodeImgUrl": "https://example.com/qrcode/20240625001.png",
-        "CodeUrl": "https://example.com/qr/20240625001"
-    },
-    {
-        "MerchantID": "116580001612",
-        "BillNumber": "002030",
-        "TerminalID": "70021412",
-        "ReferenceNumber": "002028",
-        "CreditMID": "9183507987",
-        "Amount": "001",
-        "Status": "",
-        "Error": {
-            "Code": "",
-            "Description": ""
-        },
-        "CodeImgUrl": "https://example.com/qrcode/20240625001.png",
-        "CodeUrl": "https://example.com/qr/20240625001"
-    },
-    {
-        "MerchantID": "116580001612",
-        "BillNumber": "002031",
-        "TerminalID": "70021412",
-        "ReferenceNumber": "002029",
-        "CreditMID": "9183507987",
-        "Amount": "001",
-        "Status": "",
-        "Error": {
-            "Code": "",
-            "Description": ""
-        },
-        "CodeImgUrl": "https://example.com/qrcode/20240625001.png",
-        "CodeUrl": "https://example.com/qr/20240625001"
-    },
-    {
-        "MerchantID": "116580001612",
-        "BillNumber": "002032",
-        "TerminalID": "70021412",
-        "ReferenceNumber": "002030",
-        "CreditMID": "9183507987",
-        "Amount": "001",
-        "Status": "",
-        "Error": {
-            "Code": "",
-            "Description": ""
-        },
-        "CodeImgUrl": "https://example.com/qrcode/20240625001.png",
-        "CodeUrl": "https://example.com/qr/20240625001"
-    },
-    {
-        "MerchantID": "116580001612",
-        "BillNumber": "002033",
-        "TerminalID": "70021412",
-        "ReferenceNumber": "002031",
-        "CreditMID": "9183507987",
-        "Amount": "001",
-        "Status": "",
-        "Error": {
-            "Code": "",
-            "Description": ""
-        },
-        "CodeImgUrl": "https://example.com/qrcode/20240625001.png",
-        "CodeUrl": "https://example.com/qr/20240625001"
-    },
-    {
-        "MerchantID": "116580001612",
-        "BillNumber": "002034",
-        "TerminalID": "70021412",
-        "ReferenceNumber": "002032",
-        "CreditMID": "9183507987",
-        "Amount": "001",
-        "Status": "",
-        "Error": {
-            "Code": "",
-            "Description": ""
-        },
-        "CodeImgUrl": "https://example.com/qrcode/20240625001.png",
-        "CodeUrl": "https://example.com/qr/20240625001"
-    },
-    {
-        "MerchantID": "116580001612",
-        "BillNumber": "002035",
-        "TerminalID": "70021412",
-        "ReferenceNumber": "002033",
-        "CreditMID": "9183507987",
-        "Amount": "001",
-        "Status": "",
-        "Error": {
-            "Code": "",
-            "Description": ""
-        },
-        "CodeImgUrl": "https://example.com/qrcode/20240625001.png",
-        "CodeUrl": "https://example.com/qr/20240625001"
-    },
-    {
-        "MerchantID": "116580001612",
-        "BillNumber": "002036",
-        "TerminalID": "70021412",
-        "ReferenceNumber": "002034",
-        "CreditMID": "9183507987",
-        "Amount": "001",
-        "Status": "",
-        "Error": {
-            "Code": "",
-            "Description": ""
-        },
-        "CodeImgUrl": "https://example.com/qrcode/20240625001.png",
-        "CodeUrl": "https://example.com/qr/20240625001"
-    },
-    {
-        "MerchantID": "116580001612",
-        "BillNumber": "002037",
-        "TerminalID": "70021412",
-        "ReferenceNumber": "002035",
-        "CreditMID": "9183507987",
-        "Amount": "001",
-        "Status": "",
-        "Error": {
-            "Code": "",
-            "Description": ""
-        },
-        "CodeImgUrl": "https://example.com/qrcode/20240625001.png",
-        "CodeUrl": "https://example.com/qr/20240625001"
-    },
-    {
-        "MerchantID": "116580001612",
-        "BillNumber": "002038",
-        "TerminalID": "70021412",
-        "ReferenceNumber": "002036",
-        "CreditMID": "9183507987",
-        "Amount": "001",
-        "Status": "",
-        "Error": {
-            "Code": "",
-            "Description": ""
-        },
-        "CodeImgUrl": "https://example.com/qrcode/20240625001.png",
-        "CodeUrl": "https://example.com/qr/20240625001"
-    },
-    {
-        "MerchantID": "116580001612",
-        "BillNumber": "002039",
-        "TerminalID": "70021412",
-        "ReferenceNumber": "002037",
-        "CreditMID": "9183507987",
-        "Amount": "001",
-        "Status": "",
-        "Error": {
-            "Code": "",
-            "Description": ""
-        },
-        "CodeImgUrl": "https://example.com/qrcode/20240625001.png",
-        "CodeUrl": "https://example.com/qr/20240625001"
+        "CodeImgUrl": "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://192.168.1.64:8000/sim/QRPH-Response001",
+        "CodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://192.168.1.64:8000/sim/QRPH-Response001"
     },
     {
         "MerchantID": "string",
@@ -311,8 +131,53 @@
             "Code": "",
             "Description": ""
         },
-        "CodeImgUrl": "https://example.com/qrcode/20240625001.png",
-        "CodeUrl": "https://example.com/qr/20240625001"
+        "CodeImgUrl": "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://192.168.1.64:8000/sim/QRPH-Response001",
+        "CodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://192.168.1.64:8000/sim/QRPH-Response001"
+    },
+    {
+        "MerchantID": "mer",
+        "BillNumber": "bill",
+        "TerminalID": "ter",
+        "ReferenceNumber": "ref",
+        "CreditMID": "cred",
+        "Amount": "amount",
+        "Status": "",
+        "Error": {
+            "Code": "",
+            "Description": ""
+        },
+        "CodeImgUrl": "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://192.168.1.64:8000/sim/QRPH-Response001",
+        "CodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://192.168.1.64:8000/sim/QRPH-Response001"
+    },
+    {
+        "MerchantID": "Merchant ID",
+        "BillNumber": "Bill Num",
+        "TerminalID": "Terminal ID",
+        "ReferenceNumber": "REf Num",
+        "CreditMID": "Credit MID",
+        "Amount": "Amount",
+        "Status": "",
+        "Error": {
+            "Code": "",
+            "Description": ""
+        },
+        "CodeImgUrl": "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://192.168.1.64:8000/sim/QRPH-Response001",
+        "CodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://192.168.1.64:8000/sim/QRPH-Response001"
+    },
+    {
+        "MerchantID": "1",
+        "BillNumber": "1",
+        "TerminalID": "1",
+        "ReferenceNumber": "1",
+        "CreditMID": "1",
+        "Amount": "1",
+        "Status": "",
+        "Error": {
+            "Code": "",
+            "Description": ""
+        },
+        "CodeImgUrl": "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://192.168.1.64:8000/sim/QRPH-Response001",
+        "CodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://192.168.1.64:8000/sim/QRPH-Response001"
     },
     {
         "MerchantID": "string",
@@ -326,8 +191,8 @@
             "Code": "",
             "Description": ""
         },
-        "CodeImgUrl": "https://example.com/qrcode/20240625001.png",
-        "CodeUrl": "https://example.com/qr/20240625001"
+        "CodeImgUrl": "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://192.168.1.64:8000/sim/QRPH-Response001",
+        "CodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://192.168.1.64:8000/sim/QRPH-Response001"
     },
     {
         "MerchantID": "string",
@@ -341,23 +206,98 @@
             "Code": "",
             "Description": ""
         },
-        "CodeImgUrl": "https://example.com/qrcode/20240625001.png",
-        "CodeUrl": "https://example.com/qr/20240625001"
+        "CodeImgUrl": "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://192.168.1.64:8000/sim/QRPH-Response001",
+        "CodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://192.168.1.64:8000/sim/QRPH-Response001"
     },
     {
-        "MerchantID": "testing",
-        "BillNumber": "string",
-        "TerminalID": "string",
-        "ReferenceNumber": "string",
-        "CreditMID": "string",
-        "Amount": "string",
+        "MerchantID": "mer",
+        "BillNumber": "bill",
+        "TerminalID": "ter",
+        "ReferenceNumber": "ref",
+        "CreditMID": "cre",
+        "Amount": "amo",
         "Status": "",
         "Error": {
             "Code": "",
             "Description": ""
         },
-        "CodeImgUrl": "https://example.com/qrcode/20240625001.png",
-        "CodeUrl": "https://example.com/qr/20240625001"
+        "CodeImgUrl": "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://192.168.1.64:8000/sim/QRPH-Response001",
+        "CodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://192.168.1.64:8000/sim/QRPH-Response001"
+    },
+    {
+        "MerchantID": "1",
+        "BillNumber": "1",
+        "TerminalID": "1",
+        "ReferenceNumber": "1",
+        "CreditMID": "1",
+        "Amount": "1",
+        "Status": "",
+        "Error": {
+            "Code": "",
+            "Description": ""
+        },
+        "CodeImgUrl": "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://192.168.1.64:8000/sim/QRPH-Response001",
+        "CodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://192.168.1.64:8000/sim/QRPH-Response001"
+    },
+    {
+        "MerchantID": "1",
+        "BillNumber": "1",
+        "TerminalID": "1",
+        "ReferenceNumber": "1",
+        "CreditMID": "1",
+        "Amount": "1",
+        "Status": "",
+        "Error": {
+            "Code": "",
+            "Description": ""
+        },
+        "CodeImgUrl": "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://192.168.1.64:8000/sim/QRPH-Response001",
+        "CodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://192.168.1.64:8000/sim/QRPH-Response001"
+    },
+    {
+        "MerchantID": "1",
+        "BillNumber": "1",
+        "TerminalID": "1",
+        "ReferenceNumber": "1",
+        "CreditMID": "1",
+        "Amount": "1",
+        "Status": "",
+        "Error": {
+            "Code": "",
+            "Description": ""
+        },
+        "CodeImgUrl": "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://192.168.1.64:8000/sim/QRPH-Response001",
+        "CodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://192.168.1.64:8000/sim/QRPH-Response001"
+    },
+    {
+        "MerchantID": "1",
+        "BillNumber": "1",
+        "TerminalID": "1",
+        "ReferenceNumber": "1",
+        "CreditMID": "1",
+        "Amount": "1",
+        "Status": "",
+        "Error": {
+            "Code": "",
+            "Description": ""
+        },
+        "CodeImgUrl": "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://192.168.1.64:8000/sim/QRPH-Response001",
+        "CodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://192.168.1.64:8000/sim/QRPH-Response001"
+    },
+    {
+        "MerchantID": "1",
+        "BillNumber": "1",
+        "TerminalID": "1",
+        "ReferenceNumber": "1",
+        "CreditMID": "1",
+        "Amount": "1",
+        "Status": "",
+        "Error": {
+            "Code": "",
+            "Description": ""
+        },
+        "CodeImgUrl": "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://192.168.1.64:8000/sim/QRPH-Response001",
+        "CodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://192.168.1.64:8000/sim/QRPH-Response001"
     },
     {
         "MerchantID": "string",
@@ -371,7 +311,37 @@
             "Code": "",
             "Description": ""
         },
-        "CodeImgUrl": "https://example.com/qrcode/20240625001.png",
-        "CodeUrl": "https://example.com/qr/20240625001"
+        "CodeImgUrl": "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://192.168.1.64:8000/sim/QRPH-Response001",
+        "CodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://192.168.1.64:8000/sim/QRPH-Response001"
+    },
+    {
+        "MerchantID": "1",
+        "BillNumber": "1",
+        "TerminalID": "1",
+        "ReferenceNumber": "1",
+        "CreditMID": "1",
+        "Amount": "1",
+        "Status": "",
+        "Error": {
+            "Code": "",
+            "Description": ""
+        },
+        "CodeImgUrl": "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://192.168.1.64:8000/sim/QRPH-Response001",
+        "CodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://192.168.1.64:8000/sim/QRPH-Response001"
+    },
+    {
+        "MerchantID": "string",
+        "BillNumber": "string",
+        "TerminalID": "string",
+        "ReferenceNumber": "string",
+        "CreditMID": "string",
+        "Amount": "string",
+        "Status": "",
+        "Error": {
+            "Code": "",
+            "Description": ""
+        },
+        "CodeImgUrl": "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://192.168.1.64:8000/sim/QRPH-Response001",
+        "CodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://192.168.1.64:8000/sim/QRPH-Response001"
     }
 ]

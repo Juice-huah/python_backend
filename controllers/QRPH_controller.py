@@ -1,10 +1,8 @@
-from fastapi import HTTPException, status
 from datetime import datetime
 import json
 import os
 
 SIM_FILE = "data/QRPH_data.json"
-#Hardcoded status, error, CodeImg, and CodeURL.
 ADDTIONAL_DATA_FILE = "data/QRPH_additional_data.json"
 
 def get_callbacks():
@@ -20,7 +18,6 @@ def save_generated_qr(data):
     all_records = get_callbacks()
     new_entry = data.model_dump()
 
-    #add addtional data from addtional_callback_data.json if exists
     if os.path.exists(ADDTIONAL_DATA_FILE):
         with open(ADDTIONAL_DATA_FILE, "r") as f:
             addtional_data = json.load(f)
@@ -33,9 +30,8 @@ def save_generated_qr(data):
         json.dump(all_records, file, indent=4)
     return new_entry
 
-#Payment response that takes URL
-def create_payment_response(ref_no, amount, date, trace):
-    response = {
+def create_payment_response(ref_no, amount, date, trace, status_choice="Approved"):
+    return {
         "InvoiceNumber": trace, 
         "ReferenceNumber": ref_no,
         "Amount": amount,           
@@ -43,8 +39,8 @@ def create_payment_response(ref_no, amount, date, trace):
         "Time": datetime.now().strftime("%H:%M:%S"),
         "CardNumber": "4834420000001110",
         "TraceNumber": trace,
-        "ApprovalCode": "123456",
-        "Status": "Approved",
-        "Reason": "Approved"
+        "ApprovalCode": "123456" if status_choice == "Approved" else "000000",
+        "Status": status_choice,
+        "Reason": status_choice
+
     }
-    return response

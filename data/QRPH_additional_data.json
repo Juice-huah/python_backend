@@ -5,7 +5,7 @@
             "Code": "",
             "Description": ""
         },
-        "CodeImgUrl": "https://example.com/qrcode/20240625001.png",
-        "CodeUrl": "https://example.com/qr/20240625001"
+        "CodeImgUrl": "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://192.168.1.64:8000/sim/QRPH-Response001",
+        "CodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://192.168.1.64:8000/sim/QRPH-Response001"
     }
 ]
