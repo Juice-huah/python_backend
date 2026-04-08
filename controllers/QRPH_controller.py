@@ -3,6 +3,7 @@ import json
 import os
 
 SIM_FILE = "data/QRPH_data.json"
+RESPONSE = "data/QRPH_payment_response.json"
 
 def get_callbacks():
     if not os.path.exists(SIM_FILE):
@@ -25,7 +26,6 @@ def save_generated_qr(data):
         },
         "CodeImgUrl": "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://192.168.1.64:8000/sim/QRPH-Response001",
         "CodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://192.168.1.64:8000/sim/QRPH-Response001",
-        "IsProcessed": False
     }
     new_entry.update(extra_data)
 
@@ -35,7 +35,7 @@ def save_generated_qr(data):
     return new_entry
 
 def create_payment_response(ref_no, amount, date, trace, status_choice="Approved"):
-    return {
+    response = {
         "InvoiceNumber": trace, 
         "ReferenceNumber": ref_no,
         "Amount": amount,           
@@ -46,13 +46,9 @@ def create_payment_response(ref_no, amount, date, trace, status_choice="Approved
         "ApprovalCode": "123456" if status_choice == "Approved" else "000000",
         "Status": status_choice,
         "Reason": status_choice,
-        
     }
 
-def get_pending_transaction():
-    all_records = get_callbacks() 
-    
-    for record in all_records:
-        if record.get("IsProcessed") == False:
-            return record 
-    return None
+    with open(RESPONSE, "w") as file:
+            json.dump(response, file, indent=4)
+
+    return response

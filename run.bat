@@ -10,8 +10,7 @@ for /f "tokens=2 delims=:" %%A in ('ipconfig ^| findstr /R "IPv4"') do (
 set IP=%IP:~1%
 
 echo Detected IP: %IP%
-echo Starting HTTPS Simulator with Auto-Reload...
-
+echo Starting Simulator
 REM Activate your virtual environment
 call venv\Scripts\activate.bat
 

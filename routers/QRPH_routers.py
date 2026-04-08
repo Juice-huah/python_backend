@@ -19,11 +19,3 @@ def payment_response(
     return controller.create_payment_response(
         ref_no, amount, transaction_date, trace_number, status
     )
-
-@router.get("/check-pending")
-def check_pending():
-    record = controller.get_pending_transaction()
-    
-    if record:
-        return record 
-    return {"message": "No pending transactions"}
