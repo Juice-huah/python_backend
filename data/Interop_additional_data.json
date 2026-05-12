@@ -1,0 +1,11 @@
+[
+    {
+        "Status": "Successful",
+        "Error": {
+            "Code": "",
+            "Description": ""
+        },
+        "CodeImgUrl": "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://192.168.1.64:8000/sim/QRPH-Response001",
+        "CodeUrl": "00020101021228650011ph.ppmi.p2m0111BNORPHMMXXX0310918284992704109182849927050331052045411530360854040.015802PH5920THE SM STORE PHQR UA6011MANDALUYONG62370011ph.ppmi.p2m050600600407080072994888530012ph.ppmi.qrph0133305530000096~102026030410666573886304A726"
+    }
+]

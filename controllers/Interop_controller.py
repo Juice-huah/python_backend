@@ -4,6 +4,7 @@ import os
 
 SIM_FILE = "data/Interop_genQR_callback.json"
 ADDTIONAL_DATA_FILE = "data/Interop_additional_data.json"
+RESPONSE_FILE = "data/Interop_payment_response.json"
 
 def get_callbacks():
     if not os.path.exists(SIM_FILE):
@@ -45,7 +46,7 @@ def save_generate_QR(data):
     return response_data
 
 def create_payment_response(mid, billnum, refID, terID, amount, txntype):
-    return {
+    return save_payment_response({
         "Status": "Success",
         "MID": mid,
         "BillNumber": billnum,
@@ -62,7 +63,21 @@ def create_payment_response(mid, billnum, refID, terID, amount, txntype):
         "AuthTimeStamp": "03042026150448",
         "Ref Num": "QR-PAY2-17726078-91007776",
         "Amount": amount,
-        "Currency": "PHP",
         "OutTradeNo": "006004",
         "OutTransactionID": "QR-PAY2-17726078-91007776"
+    })
+
+def save_payment_response(data):
+    with open(RESPONSE_FILE, "w") as file:
+        json.dump(data, file, indent=4) 
+
+    response_data = {
+        "MID": data["MID"],
+        "BillNumber": data["BillNumber"],
+        "ReferenceID": data["ReferenceID"],
+        "TerminalID": data["TerminalID"],
+        "Amount": data["Amount"],
+        "TxnType": data["TxnType"]
     }
+
+    return response_data

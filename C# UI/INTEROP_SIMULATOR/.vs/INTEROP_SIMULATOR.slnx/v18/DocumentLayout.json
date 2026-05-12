@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jushua\\source\\repos\\INTEROP_SIMULATOR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F85EAC8E-CDAC-E7AC-CECD-DB1E8724C97F}|INTEROP_SIMULATOR\\INTEROP_SIMULATOR.csproj|C:\\Users\\Jushua\\source\\repos\\INTEROP_SIMULATOR\\interop_simulator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F85EAC8E-CDAC-E7AC-CECD-DB1E8724C97F}|INTEROP_SIMULATOR\\INTEROP_SIMULATOR.csproj|solutionrelative:interop_simulator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85EAC8E-CDAC-E7AC-CECD-DB1E8724C97F}|INTEROP_SIMULATOR\\INTEROP_SIMULATOR.csproj|c:\\users\\jushua\\source\\repos\\interop_simulator\\interop_simulator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F85EAC8E-CDAC-E7AC-CECD-DB1E8724C97F}|INTEROP_SIMULATOR\\INTEROP_SIMULATOR.csproj|solutionrelative:interop_simulator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85EAC8E-CDAC-E7AC-CECD-DB1E8724C97F}|INTEROP_SIMULATOR\\INTEROP_SIMULATOR.csproj|c:\\users\\jushua\\source\\repos\\interop_simulator\\interop_simulator\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F85EAC8E-CDAC-E7AC-CECD-DB1E8724C97F}|INTEROP_SIMULATOR\\INTEROP_SIMULATOR.csproj|solutionrelative:interop_simulator\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Jushua\\source\\repos\\INTEROP_SIMULATOR\\INTEROP_SIMULATOR\\Form1.cs",
+              "RelativeDocumentMoniker": "INTEROP_SIMULATOR\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jushua\\source\\repos\\INTEROP_SIMULATOR\\INTEROP_SIMULATOR\\Form1.cs",
+              "RelativeToolTip": "INTEROP_SIMULATOR\\Form1.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAuwIwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T04:50:58.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Jushua\\source\\repos\\INTEROP_SIMULATOR\\INTEROP_SIMULATOR\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "INTEROP_SIMULATOR\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Jushua\\source\\repos\\INTEROP_SIMULATOR\\INTEROP_SIMULATOR\\Form1.Designer.cs",
+              "RelativeToolTip": "INTEROP_SIMULATOR\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T04:50:00.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jushua\\source\\repos\\INTEROP_SIMULATOR\\INTEROP_SIMULATOR\\Form1.cs",
+              "RelativeDocumentMoniker": "INTEROP_SIMULATOR\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jushua\\source\\repos\\INTEROP_SIMULATOR\\INTEROP_SIMULATOR\\Form1.cs [Design]",
+              "RelativeToolTip": "INTEROP_SIMULATOR\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T04:46:28.033Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

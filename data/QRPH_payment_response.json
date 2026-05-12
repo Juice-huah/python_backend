@@ -1,0 +1,12 @@
+{
+  "InvoiceNumber": "invoice number",
+  "ReferenceNumber": "ref",
+  "Amount": "amo",
+  "Date": "date",
+  "Time": "09:27:24",
+  "CardNumber": "4834420000001110",
+  "TraceNumber": "trace",
+  "ApprovalCode": "123456",
+  "Status": "Approved",
+  "Reason": "Approved"
+}

@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Transactions>
+  <item>
+    <MerchantID>116580001612</MerchantID>
+    <BillNumber>002024</BillNumber>
+    <TerminalID>70021412</TerminalID>
+    <ReferenceNumber>002020</ReferenceNumber>
+    <CreditMID>9183507987</CreditMID>
+    <Amount>001</Amount>
+    <Status>Successful</Status>
+    <Error>
+      <Code />
+      <Description />
+    </Error>
+    <CodeImgUrl>https://example.com/qrcode/002024.png</CodeImgUrl>
+    <CodeUrl>https://example.com/qr/002024</CodeUrl>
+  </item>
+  <item>
+    <MerchantID>string</MerchantID>
+    <BillNumber>string</BillNumber>
+    <TerminalID>string</TerminalID>
+    <ReferenceNumber>string</ReferenceNumber>
+    <CreditMID>string</CreditMID>
+    <Amount>string</Amount>
+    <Status>Successful</Status>
+    <Error>
+      <Code />
+      <Description />
+    </Error>
+    <CodeImgUrl>https://example.com/qrcode/string.png</CodeImgUrl>
+    <CodeUrl>https://example.com/qr/string</CodeUrl>
+  </item>
+  <item>
+    <MerchantID>string</MerchantID>
+    <BillNumber>string</BillNumber>
+    <TerminalID>string</TerminalID>
+    <ReferenceNumber>string</ReferenceNumber>
+    <CreditMID>string</CreditMID>
+    <Amount>1 Billion</Amount>
+    <Status>Successful</Status>
+    <Error>
+      <Code />
+      <Description />
+    </Error>
+    <CodeImgUrl>https://example.com/qrcode/string.png</CodeImgUrl>
+    <CodeUrl>https://example.com/qr/string</CodeUrl>
+  </item>
+  <item>
+    <MerchantID>testting</MerchantID>
+    <BillNumber>string</BillNumber>
+    <TerminalID>string</TerminalID>
+    <ReferenceNumber>string</ReferenceNumber>
+    <CreditMID>string</CreditMID>
+    <Amount>string</Amount>
+    <Status>Successful</Status>
+    <Error>
+      <Code />
+      <Description />
+    </Error>
+    <CodeImgUrl>https://example.com/qrcode/string.png</CodeImgUrl>
+    <CodeUrl>https://example.com/qr/string</CodeUrl>
+  </item>
+  <item>
+    <MerchantID>testing</MerchantID>
+    <BillNumber>testing</BillNumber>
+    <TerminalID>testing</TerminalID>
+    <ReferenceNumber>testing</ReferenceNumber>
+    <CreditMID>testing</CreditMID>
+    <Amount>testing</Amount>
+    <Status>Successful</Status>
+    <Error>
+      <Code />
+      <Description />
+    </Error>
+    <CodeImgUrl>https://example.com/qrcode/testing.png</CodeImgUrl>
+    <CodeUrl>https://example.com/qr/testing</CodeUrl>
+  </item>
+  <item>
+    <MerchantID>testing</MerchantID>
+    <BillNumber>testing</BillNumber>
+    <TerminalID>testing</TerminalID>
+    <ReferenceNumber>testing</ReferenceNumber>
+    <CreditMID>testing</CreditMID>
+    <Amount>testing</Amount>
+    <Status>Successful</Status>
+    <Error>
+      <Code />
+      <Description />
+    </Error>
+    <CodeImgUrl>https://example.com/qrcode/testing.png</CodeImgUrl>
+    <CodeUrl>https://example.com/qr/testing</CodeUrl>
+  </item>
+  <item>
+    <MerchantID>string</MerchantID>
+    <BillNumber>strung</BillNumber>
+    <TerminalID>string</TerminalID>
+    <ReferenceNumber>string</ReferenceNumber>
+    <CreditMID>string</CreditMID>
+    <Amount>string</Amount>
+    <Status>Successful</Status>
+    <Error>
+      <Code />
+      <Description />
+    </Error>
+    <CodeImgUrl>https://example.com/qrcode/string.png</CodeImgUrl>
+    <CodeUrl>https://example.com/qr/string</CodeUrl>
+  </item>
+</Transactions>

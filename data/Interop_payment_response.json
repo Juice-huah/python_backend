@@ -1,0 +1,20 @@
+{
+    "Status": "Success",
+    "MID": "ID",
+    "BillNumber": "bill",
+    "ReferenceID": "refID",
+    "ConsentID": "10202603041066657388",
+    "TxnType": "tpe",
+    "Currency": "PHP",
+    "TerminalID": "terID",
+    "RRN": "026063327372",
+    "ApprovalCode": "327372",
+    "AuthCode": "00",
+    "AccountType": "2",
+    "CardNo": "001419****9533",
+    "AuthTimeStamp": "03042026150448",
+    "Ref Num": "QR-PAY2-17726078-91007776",
+    "Amount": "AMO",
+    "OutTradeNo": "006004",
+    "OutTransactionID": "QR-PAY2-17726078-91007776"
+}

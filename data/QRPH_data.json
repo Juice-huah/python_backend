@@ -1,19 +1,6 @@
 [
     {
-        "InvoiceNumber": "string",
-        "ReferenceNumber": "string",
-        "Amount": "string",
-        "Date": "string",
-        "Time": "14:50:05",
-        "CardNumber": "4834420000001110",
-        "TraceNumber": "string",
-        "ApprovalNumber": "123456",
-        "Status": "Approved",
-        "Reason": "Approved",
-        "IsProcessed": false
-    },
-    {
-        "MerchantID": "string",
+        "MerchantID": "boom",
         "BillNumber": "string",
         "TerminalID": "string",
         "ReferenceNumber": "string",
@@ -25,27 +12,10 @@
             "Description": ""
         },
         "CodeImgUrl": "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://192.168.1.64:8000/sim/QRPH-Response001",
-        "CodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://192.168.1.64:8000/sim/QRPH-Response001",
-        "IsProcessed": true
+        "CodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://192.168.1.64:8000/sim/QRPH-Response001"
     },
     {
-        "MerchantID": "string",
-        "BillNumber": "string",
-        "TerminalID": "string",
-        "ReferenceNumber": "string",
-        "CreditMID": "string",
-        "Amount": "string",
-        "Status": "",
-        "Error": {
-            "Code": "",
-            "Description": ""
-        },
-        "CodeImgUrl": "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://192.168.1.64:8000/sim/QRPH-Response001",
-        "CodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://192.168.1.64:8000/sim/QRPH-Response001",
-        "IsProcessed": true
-    },
-    {
-        "MerchantID": "string",
+        "MerchantID": "boom",
         "BillNumber": "string",
         "TerminalID": "string",
         "ReferenceNumber": "string",

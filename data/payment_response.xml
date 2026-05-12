@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PaymentResponse>
+  <InvoiceNumber>invoice</InvoiceNumber>
+  <ReferenceNumber>ref</ReferenceNumber>
+  <Amount>string</Amount>
+  <Date>string</Date>
+  <Time>time</Time>
+  <CardNumber>4834420000001110</CardNumber>
+  <TraceNumber>string</TraceNumber>
+  <ApprovalCode>123456</ApprovalCode>
+  <Status>Approved</Status>
+  <Reason>Approved</Reason>
+  <IsProcessed>false</IsProcessed>
+</PaymentResponse>
